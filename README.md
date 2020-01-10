@@ -1,1 +1,1 @@
-# JavaScript-For-Front-End
+# JavaScript-For-Front-End (Solution for homework)
